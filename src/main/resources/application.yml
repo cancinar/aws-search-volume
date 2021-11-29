@@ -1,0 +1,5 @@
+client:
+  amazon:
+    host: completion.amazon.com
+    path:
+      autocomplete: /search/complete
